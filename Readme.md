@@ -13,6 +13,8 @@ A module with one exported function can be found in `src/ModuleDemo.jl`
 
 A second script exists in `src/second.jl` with imports the `ModuleDemo` and executes the function.
 
+When instantiated, it can be run with `julia --project src/second.jl`
+
 This works fine, however the LSP is unable to find the ModuleDemo
 
 ![Lsp Issue](issue.png "Issue")
