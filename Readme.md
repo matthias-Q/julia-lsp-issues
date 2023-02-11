@@ -15,4 +15,4 @@ A second script exists in `src/second.jl` with imports the `ModuleDemo` and exec
 
 This works fine, however the LSP is unable to find the ModuleDemo
 
-!(issue.png)
+![Lsp Issue](issue.png "Issue")
