@@ -1,0 +1,4 @@
+name = "ModuleDemo"
+uuid = "e7dd097b-dd27-4e19-8c4d-2ebcfc610014"
+authors = ["Matthias Queitsch <matthias.queitsch@mailbox.org>"]
+version = "0.1.0"
